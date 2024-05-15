@@ -1,0 +1,3 @@
+pixel perfect collision
+
+-> subject moves along the surface after collision on a point on another shape
